@@ -1,0 +1,5 @@
+Host: asset.tantanapp.com
+User-Agent: Putong/2.7.3.3 iOS/9.3.3 iPhone/iPhone8,1 (iPhone 6s)
+Accept-Language: zh-Hans
+Accept-Encoding: gzip, deflate
+Connection: keep-alive

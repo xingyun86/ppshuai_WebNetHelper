@@ -1,0 +1,1 @@
+https://client-tracking.tantanapp.com/?event_time=XXXX-XX-XXTXX%3AXX%3AXX.XXXXXX%2B0000&idfa=95D92079-1F79-49EE-90D1-C0F6EF057708&idfv=016F324C-3794-4DFB-81A1-7A06A139E88B&app_build=2.7.3.3_AppStore&event_name=welcomePage_start_clicked

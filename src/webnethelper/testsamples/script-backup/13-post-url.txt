@@ -1,0 +1,1 @@
+https://account.tantanapp.com/v1/phone/code/send
